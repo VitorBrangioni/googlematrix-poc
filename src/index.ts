@@ -36,7 +36,7 @@ const distancematrix = (origins: LatLng[], destinations: LatLng[]) : Promise<Dis
 
 
   if (elementsA.length !== elementsB.length)
-    return console.log('Anything is wrong');
+    throw new Error('Anything is wrong');
 
   for (let i = 0; i < elementsA.length; i++) {
     const elementA = elementsA[i];
