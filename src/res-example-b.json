@@ -1,0 +1,44 @@
+{
+  "destination_addresses": [
+    "R. João de Castilho, 36 - Vila Clementino, São Paulo - SP, 04041-070, Brazil",
+    "R. Dep. Lacerda Franco, 553 - Pinheiros, São Paulo - SP, 05418-001, Brazil",
+    "R. Cristiano Viana, 162 - Cerqueira César, São Paulo - SP, 05411-000, Brazil",
+    "R. Fernão Dias, 705 - Pinheiros, São Paulo - SP, 05427-011, Brazil",
+    "R. Padre João Manuel, 167 - Cerqueira César, São Paulo - SP, 01411-001, Brazil"
+  ],
+  "origin_addresses": [
+    "Viaduto Okuhara Koei, 31 - Consolação, São Paulo - SP, 01302-030, Brazil"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": { "text": "5.6 mi", "value": 8991 },
+          "duration": { "text": "22 mins", "value": 1313 },
+          "status": "OK"
+        },
+        {
+          "distance": { "text": "2.3 mi", "value": 3766 },
+          "duration": { "text": "11 mins", "value": 678 },
+          "status": "OK"
+        },
+        {
+          "distance": { "text": "0.8 mi", "value": 1345 },
+          "duration": { "text": "3 mins", "value": 172 },
+          "status": "OK"
+        },
+        {
+          "distance": { "text": "2.8 mi", "value": 4477 },
+          "duration": { "text": "11 mins", "value": 633 },
+          "status": "OK"
+        },
+        {
+          "distance": { "text": "1.6 mi", "value": 2529 },
+          "duration": { "text": "9 mins", "value": 536 },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

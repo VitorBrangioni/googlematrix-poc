@@ -1,0 +1,60 @@
+{
+  "destination_addresses": [
+    "R. Lisboa, 159 - Jardim America, São Paulo - SP, 05412-000, Brazil"
+  ],
+  "origin_addresses": [
+    "R. João de Castilho, 36 - Vila Clementino, São Paulo - SP, 04041-070, Brazil",
+    "R. Dep. Lacerda Franco, 553 - Pinheiros, São Paulo - SP, 05418-001, Brazil",
+    "R. Cristiano Viana, 162 - Cerqueira César, São Paulo - SP, 05411-000, Brazil",
+    "R. Fernão Dias, 705 - Pinheiros, São Paulo - SP, 05427-011, Brazil",
+    "R. Padre João Manuel, 167 - Cerqueira César, São Paulo - SP, 01411-001, Brazil"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": { "text": "3.7 mi", "value": 5977 },
+          "duration": { "text": "16 mins", "value": 960 },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": { "text": "1.6 mi", "value": 2497 },
+          "duration": { "text": "10 mins", "value": 580 },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": { "text": "0.4 mi", "value": 637 },
+          "duration": { "text": "3 mins", "value": 150 },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": { "text": "1.4 mi", "value": 2305 },
+          "duration": { "text": "9 mins", "value": 526 },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": { "text": "1.5 mi", "value": 2418 },
+          "duration": { "text": "10 mins", "value": 626 },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}
